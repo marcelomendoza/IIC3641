@@ -2,9 +2,9 @@
 Códigos y ejemplos en Python del curso GML (Graph-based Machine Learning)
 
 * Profesor: Marcelo Mendoza
-* Ayudante: Miguel Fernández
+* Ayudante: Miguel Fernández, Javier Campos, Marcos Santalices
 
-* Clases: W:5,6 (A2)
+* Clases: L:3, 4 (BC23)
 
-2024/2
+2025/2
 
