@@ -1,1 +1,0 @@
-láminas del curso
